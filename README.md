@@ -1,1 +1,2 @@
-# Data Structures and algorithms university course in "St. Kliment Ohridski" university of Sofia
+# Data Structures and algorithms university course 
+The course is studied in "St. Kliment Ohridski" university of Sofia
