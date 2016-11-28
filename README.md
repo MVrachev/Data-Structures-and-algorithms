@@ -1,2 +1,2 @@
 # Data Structures and algorithms university course 
-The course is studied in "St. Kliment Ohridski" university of Sofia
+Data Structures and algorithms university course at Sofia university St. Kliment Ohridski. The course started at October 1-st 2016 and it will finish on February 19-th 2017.
