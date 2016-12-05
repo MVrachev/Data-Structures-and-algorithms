@@ -2,7 +2,7 @@
 
 This is consonle application which is my second homework from the university course "Data Structures and algorithms" in St. Kliment Ohridski university of Sofia. The data structures I used are Vector (or here Dynamic Array), Double linked list and Queue which is implemented by the Linked list. It is started on 24.11.2016 and finished by the date of 05.12.2016.
 
-There is a building with N floors and in the building there's an elevator who is used through the building. The requests for the elevator (a request is a call of outside the elevator or inside the elevator for certain floor) are executed in the order they are requested. The speed of the elevator is a constant and it's a 0.2 floors per second (or one floor for 5 seconds). The time the elevator is on certain floor is 0 seconds.
+There is a building with N floors and in the building there's an elevator who is used through the building. The requests for the elevator (a request is a call outside the elevator or inside the elevator for certain floor) are executed in the order they are requested. The speed of the elevator is a constant and it's a 0.2 floors per second (or one floor for 5 seconds). The time the elevator stays is on certain floor is 0 seconds.
 
 Your program should simulate the work of the elevator and execute all his requests and calls.
 
