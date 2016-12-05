@@ -10,24 +10,24 @@ The input data will be in text file, the name of which you will recive as a comm
 
 Call from certain floor (outside the elevator):
 *call DIR FLOOR TIME*
-DIR: direction, one direction from up or down.
-FLOOR: floor, a whole number from the interval [1,N]
-TIME: time in seconds from the begining of the simulation when the request is given
+- DIR: direction, one direction from up or down.
+- FLOOR: floor, a whole number from the interval [1,N]
+- TIME: time in seconds from the begining of the simulation when the request is given
 
 A command, request from inside the elevator:
 *go FLOOR TIME*
-FLOOR: floor, a whole number from the interval [1,N]
-TIME: time in seconds from the begining of the simulation when the request is given
+- FLOOR: floor, a whole number from the interval [1,N]
+- TIME: time in seconds from the begining of the simulation when the request is given
 
 Output of your program shoud be: TIME, FLOOR, DIR and for every stop on a floor of the elevator, where
 - TIME: time in seconds from the begining of the simulation when the request is executed
 - FLOOR: the floor on which the elevator has stopped.
 - DIR: the direction from which the elevator had come on this floor.
 
-Note 1:
+**Note 1:**
 The seconds of the requests doesn't have anything in common with the time of execution of your program. You can think of the requests as already completed events. In second 0 the elevator is on floor 1.
 
-Note 2: 
+**Note 2:** 
 The requests are executed sorted by the time they are given. The only exception of this rule is when the elevator can stop on certain floor without chaging the requests he is executing.
 An example: if the elevator is moving from floor 1 towards floor 5 and a new request is given while he is on floor 2 the elevator will stop on floor 4 and then he will stop on floor 5.
 
