@@ -113,10 +113,7 @@ int main(int argc, char * argv[])
 		cout << "\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n";
 		particialRequestsContainer.print();
 		cout << "\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n";
-		//fillParticialContainer(allrequestsContainer, particialRequestsContainer,
-		//		lastExecutedFloor, currentSimulationTime, true);
-		//allRequestExecution(particialRequestsContainer, allrequestsContainer, 
-			//currentSimulationTime, lastExecutedFloor, firstPartFile, numberRequests);
+		
 		while (numberRequests !=0)
 		{
 			fillParticialContainer(allrequestsContainer, particialRequestsContainer,
