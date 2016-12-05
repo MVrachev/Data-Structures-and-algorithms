@@ -1,0 +1,14 @@
+16 4 up
+21 5 up
+26 4 down
+36 2 down
+46 4 up
+51 5 up
+56 6 up
+61 7 up
+66 8 up
+71 9 up
+76 10 up
+111 3 down
+116 2 down
+121 1 down
