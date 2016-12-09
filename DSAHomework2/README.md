@@ -1,4 +1,4 @@
-# Elevator simulation
+# Smart Elevator simulation
 
 This is consonle application which is my second homework from the university course "Data Structures and algorithms" in St. Kliment Ohridski university of Sofia. The data structures I used are Vector (or here Dynamic Array), Double linked list and Queue which is implemented by the Linked list. It is started on 24.11.2016 and finished by the date of 05.12.2016.
 
